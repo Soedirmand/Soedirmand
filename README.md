@@ -14,4 +14,8 @@ I'm Soedirmand </h1> <p align="center"> •●• </p> <p align="center"> <img s
   <br />
   <br />
 
+- ![Profile views](https://gpvc.arturio.dev/Soedirmand)
+- [![GitHub followers](https://img.shields.io/github/followers/Soedirmand.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Soedirmand?tab=followers)
+
+
 ## ![Metrics](https://metrics.lecoq.io/Soedirmand?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
