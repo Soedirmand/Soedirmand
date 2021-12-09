@@ -23,4 +23,4 @@
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
 
-![Metrics](https://metrics.lecoq.io/Soedirmand?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSukabumi)
+![Metrics](https://metrics.lecoq.io/Soedirmand?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
